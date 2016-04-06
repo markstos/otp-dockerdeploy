@@ -12,7 +12,7 @@ otp-dockerdeploy
 
 ## Overview
 
-This project has a Dockerfile to deploy an opentripplanner instance, with the GTFS for Switzerland built in. There is also a unittest script to run the instance and check if everything is working.
+This project has a Dockerfile to deploy an OpenTripPlanner instance, with the GTFS for Switzerland built in. There is also a unittest script to run the instance and check if everything is working.
 
 ## Install
 
